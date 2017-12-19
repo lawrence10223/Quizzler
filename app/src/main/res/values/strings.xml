@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">貝多芬的第一首標題交響曲為田園</string>
+    <string name="question_2">線上遊戲英雄聯盟中,巴龍 納什會在召喚峽谷進行遊戲20分鐘後第一次現身</string>
+    <string name="question_3">金庸武俠小說裡郭靖不會使用彈指神通</string>
+    <string name="question_4">周星馳演的《破壞之王》最後是用無敵風火輪打敗敵人斷水流</string>
+    <string name="question_5">《因你而在》是林俊傑唱的</string>
+    <string name="question_6">拉丁化是生物學名的命名原則X</string>
+    <string name="question_7">近年網路小說風行，水泉是中國知名網路作家</string>
+    <string name="question_8">日本知名藝人"山下智久"沒有參與演出詐欺獵人日劇X</string>
+    <string name="question_9">韓國天才棋士李世石在三段時就已能力抗九段棋士，並在升段規則更改後，得到兩次次世界冠軍升為九段</string>
+    <string name="question_10">因為瑞利散射所以天空是藍的</string>
+    <string name="question_11">大立光沒有當過台灣股市的股王X</string>
+    <string name="question_12">小說故事中哈利波特有當上葛來分多級長X</string>
+    <string name="question_13">德步西為印象樂派作曲家</string>
+
+</resources>
